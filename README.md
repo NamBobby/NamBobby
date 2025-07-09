@@ -1,6 +1,8 @@
 
-## 🌐Portfolio & Socials
+## 🌐Portfolio
 [![🌐 Portfolio](https://img.shields.io/badge/Portfolio-nambobby.github.io-blue?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://nambobby.github.io/Portfolio)
+
+##🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nabby0205/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nam-bobby/)  
 
